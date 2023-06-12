@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Jordan Gabriel
+
+## An aspiring Quant/Data Scientist currently working as a Data Analyst in the healthcare industry. I mainly code in Python for personal projects and in SQL for healthcare related projects.
+## I have an MSci in Chemisty with a focus on computational chemistry during my final year project. My findings were published in ACS Nano here^1.
+## After my degree, I worked as an advsior for the financial services offfice of a Big 4 firm before moving to my current role.
 
 <!--
 **jaigab/jaigab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
