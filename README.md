@@ -2,13 +2,22 @@
 
 <h3 align="center">
 An aspiring Quant/Data Scientist currently working as a Data Analyst in the healthcare industry.
-I have an MSci in Chemisty with a focus on computational chemistry during my final year project. My findings were published in ACS Nano<sup>1</sup>.
+I have a MSci in Chemisty with a focus on computational chemistry during my final year project. My findings were published in ACS Nano<sup>1</sup>.
 After my degree, I worked as an advsior for the financial services offfice of a Big 4 firm before moving to my current role.
 </h3>
- 
- <h2>
- How to use the repositories
- </h2>
+
+<h2>
+Skills
+</h2>
+
+- **Programming**: Python (Academia and personal projects), SQL (Healthcare based projects), VBA
+- **ML Techniques** : NLP, K-Nearest neighbour, K-Means clustering, Support Vectors, Neural Networks, Linear and Multiple Regression.
+- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Scikitlearn.
+- **Data Analysis**: MS Excel, Power BI
+
+<h2>
+How to use the repositories
+</h2>
  
 I created this set of repositiories to upload personal projects I am completing and record my progress as I argument my python knowledge through online courses.
 
