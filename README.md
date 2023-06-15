@@ -21,7 +21,9 @@ How to use the repositories
  
 I created this set of repositiories to upload personal projects I am completing and record my progress as I argument my python knowledge through online courses.
 
-All projects I have written in python can be found in the [Python-Projects](https://github.com/jaigab/Python-Projects) repository. The README in the repository explains the specifics of the projects including exactly which skills each project is showcasing.
+All projects I have written in python can be found in the [Python-Projects](https://github.com/jaigab/Python-Projects) repository. The README in the repository exactly which skills each project is showcasing.
+
+My solutions for the 2022 Advent of code can be found [here](https://github.com/jaigab/Advent_Of_Code_2022). The README in the repository explains the which skills were used to solve specific days.
 
 <!--
 **jaigab/jaigab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
