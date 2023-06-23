@@ -11,8 +11,8 @@ Skills
 </h2>
 
 - **Programming**: Python (Academia and personal projects), SQL (Healthcare based projects), VBA
-- **ML Techniques** : NLP, K-Nearest neighbour, K-Means clustering, Support Vectors, Neural Networks, Linear and Multiple Regression.
-- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Scikitlearn.
+- **ML Techniques**: NLP, K-Nearest neighbour, K-Means clustering, Support Vectors, Neural Networks, Linear and Multiple Regression.
+- **Data Science & ML Tools (Python)**: NumPy, Pandas, Matplotlib, Scikitlearn.
 - **Data Analysis**: MS Excel, Power BI
 
 <h2>
@@ -24,6 +24,29 @@ I created this set of repositiories to upload personal projects I am completing 
 All projects I have written in python can be found in the [Python-Projects](https://github.com/jaigab/Python-Projects) repository. The README in the repository exactly which skills each project is showcasing.
 
 My solutions for the 2022 Advent of code can be found [here](https://github.com/jaigab/Advent_Of_Code_2022). The README in the repository explains the which skills were used to solve specific days.
+
+<h2>
+Online courses completed
+</h2>
+
+<h3>
+ Coursera
+</h3>
+
+- **Google Data Analytics Professional Certificate**
+- **Using Machine Learning in Trading and Finance**
+- **Finance & Quantitative Modeling for Analysts**
+  
+<h3>
+ Codecademy
+</h3>
+
+- **Intermediate Python 3**
+- **Advanced Python 3**
+- **SQL**
+- **Build a machine learning model with Python**
+- **Data Analysis with pandas**
+- **Data structures and algortihms**
 
 <!--
 **jaigab/jaigab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
