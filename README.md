@@ -19,7 +19,7 @@ Skills
 How to use the repositories
 </h2>
  
-I created this set of repositiories to upload personal projects I am completing and record my progress as I argument my python knowledge through online courses.
+I created this set of repositiories to upload personal projects I am completing and record my progress as I augment my python knowledge through online courses.
 
 All projects I have written in python can be found in the [Python-Projects](https://github.com/jaigab/Python-Projects) repository. The README in the repository states exactly which skills each project is showcasing.
 
