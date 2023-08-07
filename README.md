@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Gabriel</h1>
 
 <h3 align="center">
-I amd a data anlyast currently looking for exciting new job opportunities. 
+I am a data anlyast currently looking for exciting new job opportunities. 
 I have a MSci in chemisty with a focus on computational chemistry during my final year project. My findings were published in ACS Nano<sup>1</sup>.
 After my degree, I worked as an advsior for the financial services office of a Big 4 firm before moving to my current role.
 </h3>
